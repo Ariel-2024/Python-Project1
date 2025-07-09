@@ -14,7 +14,7 @@ if the final full word guess is also wrong the game ends.
 
 HOW TO RUN THE PROGRAM
 Requirements:
-Python 3 or vs code installed on your system
+Python 3 or visual studio code installed on your system
 A terminal or command line
 
 STEPS:
